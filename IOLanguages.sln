@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOLanguages", "IOLanguages\IOLanguages.csproj", "{43C0E764-DE5F-4DD9-981F-E9BCB0E837F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trans", "Trans\Trans.csproj", "{853D3784-4E45-4E5C-A85C-A787831442E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C0E764-DE5F-4DD9-981F-E9BCB0E837F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C0E764-DE5F-4DD9-981F-E9BCB0E837F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C0E764-DE5F-4DD9-981F-E9BCB0E837F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C0E764-DE5F-4DD9-981F-E9BCB0E837F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853D3784-4E45-4E5C-A85C-A787831442E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853D3784-4E45-4E5C-A85C-A787831442E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853D3784-4E45-4E5C-A85C-A787831442E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853D3784-4E45-4E5C-A85C-A787831442E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
